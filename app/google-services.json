@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990777167894",
+    "project_id": "mmthappfin",
+    "storage_bucket": "mmthappfin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990777167894:android:986c90986d2db34aa8a537",
+        "android_client_info": {
+          "package_name": "com.example.mmthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMgAgetWXLfC_Bx3d1fBJeG5OZFPAixqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

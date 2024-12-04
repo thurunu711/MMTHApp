@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.MMTHApp" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/royal_blue</item>
+    </style>
+</resources>
